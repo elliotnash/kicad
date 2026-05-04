@@ -128,7 +128,7 @@
 		(symbol "AP64200SP-13_1_1"
 			(rectangle
 				(start 5.08 2.54)
-				(end 25.4 -10.16)
+				(end 25.4 -13.97)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -274,6 +274,24 @@
 					)
 				)
 				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -11.43 0)
+				(length 5.08)
+				(name "EP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
