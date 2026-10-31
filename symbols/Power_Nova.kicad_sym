@@ -459,7 +459,7 @@
 					(type none)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 0 0 0)
 				(length 7.62)
 				(name "AC/L"
@@ -477,7 +477,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 0 -2.54 0)
 				(length 7.62)
 				(name "AC/N"
@@ -495,7 +495,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 40.64 -2.54 180)
 				(length 7.62)
 				(name "V+"
