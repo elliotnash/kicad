@@ -343,7 +343,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "AL8861Y-13:CONV_AL8861Y-13"
+		(property "Footprint" "LED_Nova:CONV_AL8861Y-13"
 			(at 0.762 -39.116 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -339,28 +339,6 @@
 		(uuid "5ba65980-1167-4750-8d15-ec71779f6890")
 	)
 	(fp_arc
-		(start 17.263194 -3.95)
-		(mid 18.48887 -3.378462)
-		(end 18.838886 -2.072163)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "5ba65980-1167-4750-8d15-ec71779f6890")
-	)
-	(fp_arc
-		(start 18.010149 2.627837)
-		(mid 17.462913 3.575655)
-		(end 16.434457 3.95)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "54bce43a-64a1-454b-bbae-c7f263eae5f6")
-	)
-	(fp_arc
 		(start 18.010149 2.627837)
 		(mid 17.462913 3.575655)
 		(end 16.434457 3.95)
